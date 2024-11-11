@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Home"
+excerpt: "Welcome to my academic homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 🎓 About Me
 Hello! I am a doctoral student specializing in public finance, with primary research interests in demography, labor economics, education policy, and education finance. I enjoy coding and creating data visualizations, and I am passionate about sharing my journey of self development, my academic discoveries and insights. My personal website is a platform where I document my growth, showcase data exploration projects, and discuss findings in my areas of research.
 
 This is my Google Scholar profile with current citation count: <span id='total_cit' data='KmMRMAQAAAAJ'></span>. You can also display your Google Scholar citations using a badge like this: <a href='https://scholar.google.com/citations?user=KmMRMAQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).

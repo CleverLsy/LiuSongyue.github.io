@@ -2,10 +2,11 @@
 
 main:
   - title: "About Me"
-    url: "/about-me/"
+    url: "/LiuSongyue.github.io/about-me/"
   - title: "Publications"
-    url: "/publications/"
+    url: "/LiuSongyue.github.io/publications/"
   - title: "Projects"
-    url: "/projects/"
+    url: "/LiuSongyue.github.io/projects/"
   - title: "Learning Materials"
-    url: "/learning-materials/"
+    url: "/LiuSongyue.github.io/learning-materials/"
+
