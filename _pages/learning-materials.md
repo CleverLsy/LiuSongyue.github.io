@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: default
 title: "Learning Materials"
 permalink: /learning-materials/
 author_profile: true
@@ -14,5 +14,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<span class='anchor' id='learning-materials'></span>
 # Learning  Materials
 这里是关于我的内容...
