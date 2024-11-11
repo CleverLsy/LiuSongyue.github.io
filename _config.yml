@@ -165,3 +165,5 @@ compress_html:
 collections:
   pages:
     output: true
+
+baseurl: "/LiuSongyue.github.io"
