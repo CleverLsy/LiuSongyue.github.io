@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: compress
 title: "Learning Materials"
 permalink: /learning-materials/
 author_profile: true
