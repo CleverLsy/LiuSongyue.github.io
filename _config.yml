@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Songyue Liu"
-  avatar           : "{{ site.baseurl }}/images/econ phd life.png"
+  avatar           : "/LiuSongyue.github.io/images/econ_phd_life.png"
   bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
