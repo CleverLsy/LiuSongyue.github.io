@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Liu Songyue"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "LiuSongyue"
+description              : "I am a doctoral student specializing in public finance, with primary research interests in demography, labor economics, education policy, and education finance. "
 repository               : "CleverLsy/LiuSongyue.github.io"
 google_scholar_stats_use_cdn : true
 
