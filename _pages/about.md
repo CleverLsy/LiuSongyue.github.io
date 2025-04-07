@@ -23,11 +23,11 @@ This is my Google Scholar profile with current citation count: <span id='total_c
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Waiting for information. 
+- *2022.02*: &nbsp;🎉🎉 Waiting for information. 
 
 # 📝 Publications 
-- [Waiting for content](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- [Waiting for content](https://kdocs.cn/l/cobWi8RXJJUq)
 **Songyue Liu**, Friend 1, Friend 2
   
 
@@ -40,16 +40,18 @@ This is my Google Scholar profile with current citation count: <span id='total_c
 - Description of project.[web link](https://github.com), A, B, C.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* Waiting for information. 
+- *2021.09* Waiting for information. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - Present*, Peking University, Ph.D. in Public Finance
+- *2019.09 - 2022.06*, Beijing Normal University, M.A. in Labor Economics
+- *2015.09 - 2019.06*, Beijing Normal University, B.A. in Economics
+
 
 # 💬 Conferences
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.06*, Waiting for information. 
+- *2021.03*, Waiting for information.  \| [\[video\]](https://github.com/)
 
 # 💻 Learning Materials
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [waiting for update](https://github.com/), China.
