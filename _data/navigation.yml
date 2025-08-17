@@ -2,9 +2,9 @@
 
 main:
   - title: "HomePage"
-    url: "https://cleverlsy.github.io/LiuSongyue.github.io/"
+    url: "/LiuSongyue.github.io/about/"
   - title: "About Me"
-    url: "/LiuSongyue.github.io/about-me/"
+    url: "/LiuSongyue.github.io/about/"
   - title: "Publications"
     url: "/LiuSongyue.github.io/publications/"
   - title: "Projects"
