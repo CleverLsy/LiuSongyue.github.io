@@ -15,7 +15,6 @@ Hello! I am a doctoral student specializing in public finance, with primary rese
 **Research Interests**: Educational Economics, Digital Economy and Big Data, Public Policy and Technological Innovation, Population Economics, Labor Economics
 
 
-
 # 📝 Publication and Working Paper 
 - **Liu, S.** (2020). Educational Authority and Expenditure Responsibility Division: Conceptual Definition, Division Principles and Solutions. *Educational Economic Review*, 5(02), 117-128. 
 
@@ -46,16 +45,13 @@ Hello! I am a doctoral student specializing in public finance, with primary rese
   - **Research Topic**: Research on improving long-term mechanisms for educational investment
   - **Responsibilities**: Literature review; data collection and analysis; authored international comparison chapter on educational funding mechanisms
 
----
 
 # 💬 Conferences
 - *2024.11*, Chinese Association of Quantitative Economics Annual Conference (Changsha)
 
 
-
 # 📝 Review Experience
 - **Anonymous Reviewer**: *Population Research and Policy Review*
-
 
 
 # 🏆 Honors and Awards
@@ -69,7 +65,6 @@ Hello! I am a doctoral student specializing in public finance, with primary rese
 - *2018*, Excellent Award, "Jingshi Cup" Extracurricular Academic Science and Technology Competition
 - *2015-2016*, Three Good Student Award
 - *2015-2016*, Jingshi First-Class Scholarship
-
 
 
 # 📖 Educations

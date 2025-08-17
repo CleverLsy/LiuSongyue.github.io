@@ -1,6 +1,8 @@
 # main links links
 
 main:
+  - title: "HomePage"
+    url: "https://cleverlsy.github.io/LiuSongyue.github.io/"
   - title: "About Me"
     url: "/LiuSongyue.github.io/about-me/"
   - title: "Publications"
