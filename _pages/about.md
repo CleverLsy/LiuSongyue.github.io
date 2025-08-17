@@ -1,9 +1,8 @@
 ---
-permalink: /
+permalink: /LiuSongyue.github.io/
 title: "Home"
 excerpt: "Welcome to my academic homepage"
 author_profile: true
-permalink: /about
 ---
 
 <span class='anchor' id='about-me'></span>
