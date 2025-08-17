@@ -1,10 +1,8 @@
 # main links links
 
 main:
-  - title: "HomePage"
-    url: "/LiuSongyue.github.io/about/"
   - title: "About Me"
-    url: "/LiuSongyue.github.io/about/"
+    url: "/LiuSongyue.github.io/"
   - title: "Publications"
     url: "/LiuSongyue.github.io/publications/"
   - title: "Projects"
