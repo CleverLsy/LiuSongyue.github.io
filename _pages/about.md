@@ -69,8 +69,8 @@ Hello! I am a doctoral student specializing in public finance, with primary rese
   - **Dissertation**: Digital Divide in Education: Generation Mechanisms, Fiscal Policy Responses and Outcome Analysis
   - **Research Focus**: Digital Economy, Educational Finance, Public Policy
 
-- *2019.09 - 2022.06*, **Master of Labor Economics**, School of Economics and Business Administration, Beijing Normal University
+- *2019.09 - 2022.06*, **Master of Labor Economics**, Business School, Beijing Normal University
   - **Dissertation**: Forecasting Basic Education School-Age Population: 2020-2035
   - **Research Focus**: Educational Finance, Demography, Labor Economics
 
-- *2015.09 - 2019.06*, **Bachelor of Economics**, School of Economics and Business Administration, Beijing Normal University
+- *2015.09 - 2019.06*, **Bachelor of Economics**, Business School, Beijing Normal University
