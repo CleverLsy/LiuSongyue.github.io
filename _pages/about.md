@@ -13,7 +13,7 @@ Hello! I am a doctoral student specializing in public finance, with primary rese
 
 
 # 📝 Publication and Working Paper 
-- **Liu, S.** (2020). Educational Authority and Expenditure Responsibility Division: Conceptual Definition, Division Principles and Solutions. *Educational Economic Review*, 5(02), 117-128. 
+- **Liu, S.** (2020). Educational Authority and Expenditure Responsibility Division: Conceptual Definition, Division Principles and Solutions. *China Economics of Education Review*, 5(02), 117-128. 
 
 - **From Food to Future: Household Resource Reallocation under a School Feeding Program in Rural China** (with Cheng Yuan, Zitong Wang, under review)
   - **Research Topic**: Causal effects of school lunch programs on dynamic household expenditure reallocation
